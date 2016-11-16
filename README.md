@@ -1,2 +1,0 @@
-# testconfigrepo
-Test Config Repo
